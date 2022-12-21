@@ -24,7 +24,9 @@ Here are some ideas to get you started:
 
 <div>
 
-  ## 📊 &nbsp;My activities
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
+  
+## 📊 &nbsp;My activities
   <a href="https://github.com/JulianBuchner">
     <img width=450 height=170 align="center" alt="JulianBuchner" src="https://github-readme-stats.vercel.app/api?username=JulianBuchner&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true&count_private=true" />
   </a>
