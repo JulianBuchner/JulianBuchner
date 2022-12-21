@@ -32,3 +32,12 @@ Here are some ideas to get you started:
     <img align="center" alt="JulianBuchner" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulianBuchner&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true&count_private=true" />
   </a>
 </div>
+
+<div align=center>
+  <h3><b>📍 Profile Visitor Count</b></h3>
+</div>
+    
+<!-- retro visitor counter -->  
+<p align="center" >   
+  <img src="https://profile-counter.glitch.me/DHANOLA/count.svg" />  
+</p>
