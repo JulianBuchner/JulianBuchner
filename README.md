@@ -1,8 +1,12 @@
-### Hi there 👋
-<div align="right">
-<img alt="Hola" height="70px" width="70px" align="center" src="https://c.tenor.com/fYg91qBpDdgAAAAi/bongo-cat-transparent.gif"></img><br>
+
+<div>
+  ### Hi there 👋
+  <div align="right">
+    <img alt="Hola" height="70px" width="70px" align="center" src="https://c.tenor.com/fYg91qBpDdgAAAAi/bongo-cat-transparent.gif"></img><br>
+  </div>
 </div>
 
+<!-- snake -->
 <div align="center">
   <a href="https://1999azzar.github.io/1999AZZAR/">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
@@ -10,6 +14,7 @@
 </div>
 
 <div>
+  <!-- animated divider -->
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
   
   ## 📊 &nbsp;My activities
@@ -21,6 +26,8 @@
   </a>
 </div>
 
+<!-- animated divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
 <div align=center>
   <h3><b>📍 Profile Visitor Count</b></h3>
