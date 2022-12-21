@@ -20,7 +20,7 @@
       <img width=450 height=170 align="center" alt="JulianBuchner" src="https://github-readme-stats.vercel.app/api?username=JulianBuchner&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true&count_private=true&include_all_commits=true" />
     </a>
     <a href="https://github.com/JulianBuchner">
-      <img align="center" alt="JulianBuchner" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulianBuchner&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true&count_private=true" />
+      <img align="center" alt="JulianBuchner" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulianBuchner&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true&count_private=true&langs_count=10" />
     </a>
   </div>
 </div>
